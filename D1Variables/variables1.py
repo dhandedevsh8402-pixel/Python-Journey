@@ -46,3 +46,9 @@ Calculate it using the age variable."""
 print(f"Name:{name}")
 print(f"Age:{age}")
 print(f"After 5 years I will be {age+5} years old")
+
+name = "Devshree"
+a = 7
+print(f"{name.upper()} has {len(name)} letters.")
+
+print(f"{name.capitalize()} is {len(name)} letters long and {a} squared is {a**2}.")
