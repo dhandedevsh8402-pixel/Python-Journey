@@ -52,3 +52,9 @@ a = 7
 print(f"{name.upper()} has {len(name)} letters.")
 
 print(f"{name.capitalize()} is {len(name)} letters long and {a} squared is {a**2}.")
+
+'''
+F-strings- Formatted String Lateral
+ A way to insert Variables/Expressions inside a string using {}
+ and f before the string.
+'''
